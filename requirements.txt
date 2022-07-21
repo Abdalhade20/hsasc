@@ -1,9 +1,9 @@
-pip logging
-pip requests
-pip user_agent
-pip json
-pip flask
-pip telebot
-pip random
-pip os
-pip sys
+pip install logging
+pip install requests
+pip install user_agent
+pip install json
+pip install flask
+pip install telebot
+pip install random
+pip install os
+pip install sys
