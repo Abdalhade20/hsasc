@@ -1,8 +1,8 @@
-pip install requests
-pip install user_agent
-pip install json
-pip install flask
-pip install telebot
-pip install random
-pip install os
-pip install sys
+requests
+user_agent
+json
+flask
+telebot
+random
+os
+sys
