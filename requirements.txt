@@ -1,9 +1,9 @@
-logging
-requests
-user_agent
-json
-flask
-telebot
-random
-os
-sys
+pip logging
+pip requests
+pip user_agent
+pip json
+pip flask
+pip telebot
+pip random
+pip os
+pip sys
